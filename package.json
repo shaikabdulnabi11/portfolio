@@ -1,7 +1,7 @@
 {
-  "homepage": "https://shaikabdulnabi11.github.io/portfolio",
   "name": "abdul-portfolio",
   "version": "0.0.1",
+  "homepage": "https://shaikabdulnabi11.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
