@@ -43,13 +43,8 @@ const About = () => {
           >
             <h3 className="text-xl font-semibold mb-2">🎓 Education</h3>
             <ul className="list-disc list-inside space-y-1">
-<<<<<<< HEAD
               <li><strong>B.Tech (CSE)</strong> – DSU, Trichy (2022–2026) – 9.2 CGPA</li>
               <li><strong>HSC</strong> – Vivek Jr. & Narayana College (2020–2022) – 92%</li>
-=======
-              <li><strong>B.Tech (CSE)</strong> – DSU, Trichy (2022–2026) – 8.5 CGPA</li>
-              <li><strong>HSC</strong> – Vivek Jr. & Narayana College (2020–2022) – 80%</li>
->>>>>>> 7ed40cfea8c4598fef8d2db539798912fcb8dd1b
               <li><strong>SSLC</strong> – NATCO School, Munipalli (2018–2020) – 92%</li>
             </ul>
           </motion.div>
@@ -96,11 +91,7 @@ const About = () => {
             <ul className="list-disc list-inside space-y-1">
               <li>Developed 10+ projects including IRCTC clone & Chatbot</li>
               <li>Top performer in coding events at college</li>
-<<<<<<< HEAD
               <li>Actively exploring AI, ML & Python</li>
-=======
-              <li>Actively exploring AI, Python</li>
->>>>>>> 7ed40cfea8c4598fef8d2db539798912fcb8dd1b
               <li>Enjoys reading, traveling, and experimenting with tech</li>
             </ul>
           </motion.div>

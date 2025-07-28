@@ -5,7 +5,6 @@ import { motion } from "framer-motion";
 const projects = [
   {
     title: "IRCTC Railway Ticket Booking Clone",
-<<<<<<< HEAD
     tech: "HTML, CSS, JavaScript, Flask, SQLite",
     desc: "A full-stack clone of the IRCTC platform for train search, ticket booking, and management with an interactive UI and backend.",
   },
@@ -18,48 +17,21 @@ const projects = [
     title: "Travel Booking Application",
     tech: "React.js, Node.js, MongoDB",
     desc: "A real-time travel booking system with search filters, user auth, and secure payment integration.",
-=======
-    tech: "HTML, CSS, JS, Flask, SQLite",
-    desc: "Full-stack IRCTC clone for booking and ticket management.",
-  },
-  {
-    title: "Pet Care Center Website",
-    tech: "React, Node.js, MongoDB",
-    desc: "Vet clinic management app for pets, appointments, and billing.",
-  },
-  {
-    title: "Travel Booking App",
-    tech: "React, Node.js, MongoDB",
-    desc: "Real-time travel platform with secure booking and search.",
->>>>>>> 7ed40cfea8c4598fef8d2db539798912fcb8dd1b
   },
   {
     title: "AI Voice Assistant",
     tech: "Python, TensorFlow, NLP",
-<<<<<<< HEAD
     desc: "A voice-controlled personal assistant that performs system tasks and answers queries using NLP.",
   },
   {
     title: "Voice Converter App",
     tech: "Python, Flask",
     desc: "A speech-to-text and text-to-speech converter using machine learning and audio processing.",
-=======
-    desc: "Voice-controlled AI assistant for automating tasks.",
->>>>>>> 7ed40cfea8c4598fef8d2db539798912fcb8dd1b
   },
   {
     title: "Chatbot Application",
     tech: "Node.js, MongoDB",
-<<<<<<< HEAD
     desc: "An AI-powered chatbot that dynamically interacts with users and stores conversation data.",
-=======
-    desc: "Intelligent chatbot with conversational memory.",
-  },
-  {
-    title: "Voice Converter App",
-    tech: "Python, Flask",
-    desc: "Speech ↔ Text converter using ML techniques.",
->>>>>>> 7ed40cfea8c4598fef8d2db539798912fcb8dd1b
   },
   {
     title: "Calculator",
@@ -127,7 +99,6 @@ const Projects = () => {
         </div>
       </div>
     </motion.section>
-
 
   );
 };

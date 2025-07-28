@@ -8,11 +8,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-<<<<<<< HEAD
     <div className="font-sans bg-secondary text-dark">
-=======
-    <div className="font-sans bg-gray-50 text-gray-900">
->>>>>>> 7ed40cfea8c4598fef8d2db539798912fcb8dd1b
       <Navbar />
       <Home />
       <About />
