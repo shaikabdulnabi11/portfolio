@@ -1,7 +1,11 @@
 import React from "react";
 
-const Footer = () => (
-  <footer className='bg-indigo-600 text-white text-center p-4'>Footer</footer>
-);
+const Footer = () => {
+  return (
+    <footer className="bg-dark text-textLight py-4 text-center">
+      <p>&copy; {new Date().getFullYear()} Shaik Abdul Nabi. All rights reserved.</p>
+    </footer>
+  );
+};
 
 export default Footer;
