@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="font-sans bg-gray-50 text-gray-900">
+    <div className="font-sans bg-secondary text-dark">
       <Navbar />
       <Home />
       <About />
